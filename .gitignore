@@ -1,0 +1,6 @@
+*.DS_Store
+.vscode
+
+/go-weaviate-deepseek/*.log
+/go-weaviate-deepseek/*.pid
+
