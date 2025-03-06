@@ -4,3 +4,4 @@
 /go-weaviate-deepseek/*.log
 /go-weaviate-deepseek/*.pid
 
+/gwd-app/node_modules
