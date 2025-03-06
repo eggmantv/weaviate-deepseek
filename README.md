@@ -118,7 +118,7 @@ yarn dev
 ```
 
 ## 效果
-![图1](https://imgs.eggman.tv/c7dcad7932684f8b99e915081ec74626_QQ20250306-111526.png)
+![图1](https://imgs.eggman.tv/e2eda2dd8b1f435d84ffac61b70de2e1_QQ20250306-132617.png)
 
 ## 在线体验
 
