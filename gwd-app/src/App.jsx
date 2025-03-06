@@ -151,7 +151,7 @@ function App() {
     <>
       <h1 className="text-center mt-5">Chatbot</h1>
       <h5>
-        <a href="#" className="mt-3">详细教程点此访问蛋人网查看</a>
+        <a href="https://eggman.tv/c/s-weaviate-deepseek" className="mt-3">详细教程点此访问蛋人网查看</a>
       </h5>
       <div className="container mt-3 position-relative">
         <div className="chat-window border p-3">
