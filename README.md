@@ -59,7 +59,7 @@ curl --location 'http://localhost:5012/weaviate/create' \
 --data '{
     "cls_name": "GoWeaviateDeepseek",
     "type": "text",
-    "data": "你好，我是智能AI助手EE，有什么问题都可以随时向我提问，有什么可以帮到你？"
+    "data": "你好，我是蛋人网AI知识库助理机器人，有什么问题都可以随时向我提问，有什么可以帮到你？"
 }'
 ```
 
