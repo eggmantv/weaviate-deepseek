@@ -11,11 +11,11 @@
 
 ### 安装Weaviate
 
-Weaviate 使用Docker安装，docker compose文件在 `/go-weaviate-deepseek/weaviate-docker-compose.yml`中。
+Weaviate 使用Docker安装，docker compose文件在 `go-weaviate-deepseek/weaviate-docker-compose.yml`中。
 
 ### 项目配置
 
-将阿里云百炼平台DeepSeek API Key 进行配置，在 `/go-weaviate-deepseek/conf/conf.go` 文件的 `AliDeepSeekAPIKey` 中。
+将阿里云百炼平台DeepSeek API Key 进行配置，在 `go-weaviate-deepseek/conf/conf.go` 文件的 `AliDeepSeekAPIKey` 中。
 
 ### Weaviate 操作接口
 
